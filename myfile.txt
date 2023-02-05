@@ -1,1 +1,2 @@
-Hello, I am learning Git and Github.
+Hello, I am learning Git and Github. Check something now.
+
